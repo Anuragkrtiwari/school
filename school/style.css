@@ -1,0 +1,1225 @@
+https://fonts.googleapis.com/css?family=Bubblegum+Sans|Cabin+Sketch|Lato:400,400i,700,700i|Lobster+Two:400,700|Lora'
+
+
+
+
+img {
+    vertical-align: middle;
+}
+
+.mainhead{
+background-image: url("images/newkji.jpg");
+width:100%;
+height:253px;
+margin-top: 1px;
+}
+
+.overbook{
+
+text-align:center;
+color:#2085cc;
+
+
+}
+.overbook h1{
+ 
+ font-size:30px;
+ color:white;
+  text-align:center;
+  font-size:35px;
+     padding-top: 70px;
+
+	
+}
+.overbook span{
+margin-top:20px;
+}
+.contact{
+     margin-left:30px;
+   
+	margin-top:55px;
+	
+}
+.location {
+  
+    padding-top: 37px;
+}
+img {
+    
+    margin-right: 17px;
+
+}
+.location address {
+ 
+    font-style: normal;
+    line-height: 1.42857143;
+    font-size: 16px;
+    color:#9c9a9a;
+    font-family: 'Lora', serif;
+    margin-left: 41px;
+}
+.mobile label {
+ 
+    
+    line-height: 1.42857143;
+    font-size: 14px;
+   
+    color:#9c9a9a;
+    font-family: 'Lora', serif;
+    margin-left: 39px;
+}
+.filter{
+	height:477px;
+	margin-top: 25px;
+	
+}
+@media (min-width: 992px){
+.letr1 {
+    width: 41%;
+}
+.letr {
+    width: 42.333333%;
+}
+}
+
+.email p {
+ 
+    font-style: normal;
+    line-height: 1.42857143;
+    font-size: 16px;
+   
+    color:#9c9a9a;
+    font-family: 'Lora', serif;
+    margin-left: 46px;
+}
+.location span {
+    font-size: 22px;
+    color: #deb008;
+    font-family: OpenSans Italic;
+	font:bold;
+}
+.mobile span {
+    font-size: 22px;
+    color: red;
+    font-family: OpenSans Italic;
+	font:bold;
+}
+.email span {
+    font-size: 22px;
+    color: orange;
+    font-family: OpenSans Italic;
+	font:bold;
+}
+.form{
+	margin-top:60px;
+	padding-top:40px;
+	
+}
+.form label{
+	font-family: 'Lora', serif;
+	
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 15px;
+    padding: 14px;
+    margin-top: 20px;
+    width: 175px;
+    font-family: CabinSketch Regular;
+    font-size: 17px;
+	height:52px;
+}
+.send{
+	width:100%;
+	height:150px;
+	background-color:#00bcd4;
+	color:white;
+	
+}
+.join{
+	text-align:center;
+	padding-top:38px;
+		
+}
+.join h1 {
+    font-size: 35px;
+    font-family: 'Cabin Sketch', cursive;
+    float: left;
+}
+.enter{
+	padding-top:56px;
+    margin-bottom: 25px;
+	
+}
+.enter input[type="button"] {
+    height: 55px;
+    width: 100%;
+    background-color: #58b9de;
+    border: 2px solid skyblue;
+    text-align: left;
+    font-family: cursive;
+	color:#58b9de;
+	font-size:16px;
+    border-radius: 3px;
+	  
+}
+.enter input[type="text"] {
+	font-family:cursive;
+}
+.fill{
+	background-color:#00bcd4;
+}
+.fill1{
+    background-color:#00bcd4;
+}
+
+
+
+.caption h3{
+    font-size: 18px;
+    text-align: left;
+    margin-left: -76px;
+}
+  .caption1 h3{
+    font-size: 18px;
+    text-align: left;
+    margin-left: -76px;
+}
+.caption2 h3{
+    font-size: 18px;
+    text-align: left;
+    margin-left: -76px;
+}
+.con{
+background-color:#1eccde;
+
+}
+
+	
+
+
+.menu{
+		background-color:#1eccde;	
+		
+    
+}	
+
+.footer_ul_amrc li {
+    padding: 0px 0px 5px 0px;
+    border-top: 1px dashed #5a5757;
+    line-height: 2;
+}
+
+
+.footer_ul2_amrc li {
+    border-top: 1px dashed #5a5757;
+    line-height: 2;
+}
+
+.bgrimg{
+	background-image: url("images/RS4367_iStock_000045654068_XXXLarge-scr.jpg");
+	width:100%;
+
+
+	
+}
+.footer {
+    width: 100%;
+    background-color: rgba(14, 14, 14, 0.92);
+    min-height: 250px;
+    padding: 10px 0px 25px 0px;
+}
+.footer p {
+    color: grey;
+}
+ul.footer_ul_amrc li a {
+    color: #8a8585;
+}
+
+.col-sm-3.col-md.col-sm-4.col-12.col i {
+    color: orange;
+}
+ .icon1 span{
+    background: red;
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 17px;
+
+ }
+ .icon2 span{
+	 
+	 background: red;
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 17px;
+	 
+	 
+	 
+ }
+ .icon3 span{
+	 
+	 background: red;
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 17px;
+	 
+ }
+ .icon4 span{
+	 
+	 background: red;
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 17px;
+
+	 
+	 
+ }
+ .facility img{
+	 padding-bottom:20px;
+ }
+ .section-notch:before {
+    content: "";
+    position: absolute;
+    background: url(images/section_notch_top.png);
+    background-repeat: repeat-x;
+    display: block;
+    top: -6px;
+    width: 100%;
+    height: 7px;
+    z-index: 2;
+}
+
+.section-notch {
+    position: relative;
+	
+}
+.fill1:before {
+    content: "";
+    position: absolute;
+    background: url(images/triangle1.png);
+    background-repeat: repeat-x;
+    display: block;
+    top: -6px;
+    width: 100%;
+    height: 7px;
+    z-index: 2;
+}
+
+.fill1 {
+    position: relative;
+    
+}
+.innerbar h4{
+	
+	font-size:24px;
+	text-align:left;
+	
+	font-family: 'Bubblegum Sans', cursive;
+	
+	
+	
+}
+.innerbar p{
+	font-family: lato;
+	font-size:16px;
+	text-align:left;
+    color: #434343;
+}
+.form-group input {
+    background-color: transparent;
+	border:0px;
+    border-bottom:1px solid #efe6e6;
+}
+	.form-control {
+
+    box-shadow: none !important;
+	
+
+}
+	textarea#email {
+    border: transparent;
+    border-bottom: 1px solid #e0d9d9;
+    width: 100%;
+	height: 170px
+	
+}
+.enter input[type="text"] {
+    width: 100%;
+    height: 55px;
+	background-color: #00bcd4;
+    color: white;
+    border: 1.5px solid white;
+	padding-left:20px;
+   border-color: #98e3ec;
+}
+input::placeholder {
+  color: white;
+}
+input:focus{
+	outline: none;
+	
+	
+   
+}
+.bton{
+  
+}
+.innerbar{
+	background-color:#f5f5f5;
+		overflow:hidden;
+		    padding: 20px 30px 5px;
+}
+
+.mpo {
+    margin: 0 !important;
+    padding: 0 !important;
+	
+
+}
+.kst{
+    background-color: #f5f5f5;
+    overflow:hidden;
+	    margin-top: 50px;
+}
+.cal{
+	
+	font-size:16px;
+	margin-left:20px;
+
+	
+}
+.pding{
+	padding-top:70px;
+	margin-top:0px;
+	
+	
+}
+.spc{ 
+	
+	padding-top:50px;
+	
+}
+
+@media(max-width:500px){
+	textarea#email {
+    border: transparent;
+    border-bottom: 1px solid #e0d9d9;
+    width: 100%;
+    height: 120px;
+}
+}
+#many{
+    margin-top: 30px;
+}
+
+.callus{
+      text-align: right;
+}
+.sept{
+   margin-bottom: 60px;     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

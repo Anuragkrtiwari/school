@@ -1,0 +1,341 @@
+https://fonts.googleapis.com/css?family=Bubblegum+Sans|Cabin+Sketch|Lato:400,400i,700,700i|Lobster+Two:400,700|Lora
+
+body {
+  font-family: 'gothic', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.top {
+    background-color: #ac67b8;
+    overflow: hidden;
+    padding: 6px 0px;
+    color: #fff;
+}
+a{
+        color: #00bcd4;
+    text-decoration: none;
+}
+ul.topsocial {
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+ul.topsocial li {
+    list-style-type: none;
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #c789d2;
+    text-align: center;
+    line-height: 28px;
+}
+ul.topsocial li a {
+    color: #fff;
+}
+ul.topsocial li:hover {
+    background: #9e58ab;
+    cursor: pointer;
+}
+.logobg {
+    padding: 0px 0px;
+}
+.email {
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 24px;
+}
+.callus li a{
+    color:#00bcd4;
+    text-decoration: none;
+}
+.phnumber {
+    margin: 0px;
+    color: #ad67b8;
+    font-size: 15px;
+}
+.callsb {
+    padding: 20px 0px;
+}
+.subscribe i {
+    font-size: 30px;
+}
+.subscribe {
+    font-size: 21px;
+    font-family: 'Lato';
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #00bcd5;
+    border-color: #00bcd5;
+}
+.navbarstyle {
+    background: #00bcd5;
+    padding: 0px 0px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+.navbar-default {
+    background-color: #f8f8f800;
+    border-color: #00bcd5;
+    border: 0px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+@media (min-width: 768px){
+.navbar-nav>li>a {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+}
+.media{
+    float: right;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #000;
+    background-color: #e7e7e700;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.media-body h5{
+    font-family: none;
+}
+.www{
+    width: 0px;
+}
+/*<!-------------------------------Footer---------------------->*/
+#footer{
+    background-image: url(images/bg8.jpg);
+    background-size: cover;
+}
+.footer {
+    background: #fafafa;
+}
+.layer-overlay {
+    position: relative;
+}
+.border-bottom {
+    border-bottom: 1px solid #eeeeee !important;
+}
+.layer-overlay.overlay-dark-9::before {
+    background-color: rgba(17, 17, 17, 0.9);
+}
+.layer-overlay::before {
+    background: rgba(17, 17, 17, 0.5) none repeat scroll 0 0;
+    content: " ";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 0;
+}
+.widget {
+    margin-bottom: 30px;
+}
+.text-theme-color-red {
+    color: #FF5252 !important;
+}
+.text-gray {
+    color: #808080 !important;
+}
+.text-theme-color-lemon {
+    color: #96D81F !important;
+}
+.text-theme-color-orange {
+    color: #FF9800 !important;
+}
+.footer a:focus, .footer a:hover, .footer a:active {
+    color: #666666;
+}
+.widget.dark .list-border li {
+    border-bottom: 1px dashed #404040;
+}
+ul.list {
+    list-style: outside none none;
+    margin-top: 13px;
+    padding-left: 0;
+}
+ul.list li a {
+    text-decoration: none;
+    -webkit-transition: all 300ms ease-in;
+    -o-transition: all 300ms ease-in;
+    transition: all 300ms ease-in;
+}
+.footer a {
+    color: #808080;
+}
+.pl-10 {
+    padding-left: 10px !important;
+}
+.pr-10 {
+    padding-right: 10px !important;
+}
+
+.m-0 {
+    margin: 0px !important;
+}
+.widget ul li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.widget ul.list li, .widget .post {
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+}
+.footer .widget .widget-title {
+    margin-top: 0px;
+}
+.widget.dark .widget-title {
+    color: #fff;
+}
+
+.widget .widget-title {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+ul.list-border {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+.widget .twitter-feed li::after {
+    content: "\f099";
+    font-size: 24px;
+    font-family: fontawesome;
+    left: 0;
+    position: absolute;
+    top: 0;
+    color: #00bcd4;
+}
+.widget .twitter-feed li.item {
+    position: relative;
+}
+
+.widget.dark .list-border li {
+    border-bottom: 1px dashed #404040;
+}
+.widget .twitter-feed li {
+    font-size: 13px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    padding-left: 30px;
+}
+.widget .list-border li {
+    border-bottom: 1px dashed #d3d3d3;
+}
+.widget ul li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.twitter-feed ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.mt-30 {
+    margin-top: 30px !important;
+}
+.footer .widget .widget-title {
+    margin-top: 0px;
+}
+
+.widget.dark .widget-title {
+    color: #fff;
+    margin-bottom: 24px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.widget.dark .widget-title.mb-10{
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+.drk img{
+   margin-left: 30px;
+}
+ul, ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.styled-icons li {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.styled-icons.icon-sm a {
+    font-size: 13px;
+    height: 30px;
+    line-height: 30px;
+    margin: 2px 7px 2px 0;
+    width: 30px;
+}
+.styled-icons.icon-bordered a {
+    border: 1px solid #777777;
+}
+.bg-theme-color-sky {
+    background-color: #00BCD4 !important;
+}
+form#mailchimp-subscription-form-footer input {
+    border-radius: 0px;
+}
+.bg-black-333 {
+    background-color: #d2cfcf !important;
+}
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+
+.pt-20 {
+    padding-top: 20px !important;
+}
+#footer {
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+h4{
+   
+    font-family: 'Lobster Two', cursive;
+}
+h5{
+   
+    font-size: 18px;
+    font-family: 'Lobster Two', cursive;
+}
+#footer p{
+    color: #8e8d8a;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+#footer ul li{
+     font-family: 'Lora', serif;
+     color: #7b7878;
+}
+.widget .twitter-feed li::after{
+    display: inline-block;
+    text-align: center;
+}
+.styled-icons.icon-sm a{
+display: inline-block;
+text-align: center;
+}
+.mail{
+    height: 45px;
+    font-family: serif;
+}
+.subm{
+    height: 45px;
+     width: 105px;
+     font-family: serif;
+     font-size: 18px;
+     color: white;
+}
